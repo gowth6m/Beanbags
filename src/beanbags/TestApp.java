@@ -1,9 +1,8 @@
 package beanbags;
 
-public class JarProcessTestApp {
+public class TestApp {
     public static void main(String[] args) {
         BeanBagStore store = new Store();
-        // System.out.println("Store instance successfully made, with " + store.beanBagsInStock() + " beanbags in stock.");
 
         // Part 1:
         // Adding a beanbag to stock

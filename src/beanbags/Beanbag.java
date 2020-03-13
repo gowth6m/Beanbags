@@ -62,7 +62,7 @@ public class Beanbag {
         this.setInformation(information);
     }
 
-    // -------------------------------------------------------------------------//
+    // ------------------------------------------------------------------------- //
     // Set and get functions
     // 1. num
     // Used to set the value of num, number is the number of bags of this type
@@ -214,5 +214,5 @@ public class Beanbag {
         return this.reservationId;
     }
     
-    // --------------------------------------------------------------------------------//
+    // -------------------------------------------------------------------------------- //
 }
